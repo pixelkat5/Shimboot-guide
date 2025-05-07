@@ -7,6 +7,8 @@ A simple guide on shimboot, Linux on chromebooks.
 
 ### prerequisites:<br>
 - A usb drive with around 32gbs (or more)
+  - you *can* use a micro SD card but **I WOULD HIGHLY ADVISE AGAINST IT due to its tendency to break down, low cycle count, and slower speeds**
+  - I recommend anything from 64 to 128gbs. but more is fine.    
   - usb drive info
     - its recommended to check the model of your device. If you have a usb c port make use of the faster speeds.
       <details>
