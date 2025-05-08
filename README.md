@@ -2,6 +2,11 @@
 > ! ! ! THIS PAGE IS UNDER CONSTRUCTION, THE PAGE MAY HAVE TIMES WHERE IT IS UNPOLISHED ! ! !<br>
 > I am still learning and I don't always have time for this.
 
+> [!CAUTION]
+> I am in no way responsible for anything you do. You are messing with school property and this chromebook is something that you are borrowing.
+> You don't own it and for that reason, this is just a guide for educational purposes only.
+> I also am in no way a developer or contributor for Shimboot or Sh1mmer.
+
 # Shimboot guide
 A simple guide on shimboot, Linux on chromebooks.
 
@@ -24,3 +29,5 @@ A simple guide on shimboot, Linux on chromebooks.
       <br>
       Nothing! You'll just be limited to usb 3 speeds. Its fine.
       </details>
+- A pc/laptop. Anything that can install a chrome extension and has a usb port really.
+- 
