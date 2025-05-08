@@ -9,6 +9,7 @@
 
 # Shimboot guide
 A simple guide on shimboot, Linux on chromebooks.
+This guide will imply you have a basic understanding of Linux and are going to be using a [prebuilt image.](https://github.com/ading2210/shimboot/releases/)
 
 ### prerequisites:<br>
 - A usb drive with around 32gbs (or more)
